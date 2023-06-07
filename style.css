@@ -1,0 +1,194 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  /* background: #00031E; */
+  font-family: "Monument";
+  font-weight: 300;
+}
+
+#parent-container {
+  margin-top: 300;
+  background-image: url("Images/sideBar.png");
+  background-size: cover;
+  width: 312;
+
+}
+
+/* #nameEl {
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 29px;
+  color: #fff;
+  font-family: "Monument";
+} */
+
+#category-data {
+  width: 312px;
+  margin-top: 135px;
+  margin-left: 10px;
+  font-family: "VT323";
+}
+
+@font-face {
+  font-family: "VT323";
+  src: url(Fonts/VT323-Regular.ttf);
+  font-weight: 300;
+}
+
+/* .font-14 {
+  font-size: 12px;
+}
+
+@font-face {
+  font-family: "Monument";
+  src: url(./MonumentExtended-Light.otf);
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Monument";
+  src: url(./MonumentExtended-Ultrabold.otf);
+  font-weight: 800;
+}
+
+#data {
+  position: sticky;
+  width: fit-content;
+  top: 0;
+  left: 0;} */
+/* top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
+
+
+/* select:first-of-type {
+  position: sticky;
+  width: fit-content;
+  top: 0;
+  left: 0;
+}
+
+select:nth-of-type(2) {
+  position: sticky;
+  width: fit-content;
+  top: 0;
+  left: 25%;
+}
+
+select:nth-of-type(3) {
+  position: sticky;
+  width: fit-content;
+  top: 0;
+  left: 55%;
+} */
+/* main {
+  margin-top: 88px;
+}
+
+.main-cont {
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  color: white;
+  padding: 12px;
+  background: #00031E;
+}
+
+select {
+  background: #05082b;
+  border-radius: 0;
+  padding: 5px 20px;
+  color: white;
+}
+
+select:active {
+  outline: none;
+}
+
+select:focus-visible {
+  outline: none;
+}
+
+#select-container {
+  align-items: center;
+}
+
+
+#select-container>select:nth-child(1) {
+  margin: 20px 25px;
+}
+
+canvas {
+  display: block;
+}
+
+
+
+.margin-drop {
+  margin: 0 20px;
+}
+
+.m-drop {
+  margin: 0 10px;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.logo {
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.center {
+  justify-content: center;
+  align-items: center;
+}
+
+#nameEl {
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 29px;
+  color: #fff;
+  font-family: "Monument";
+}
+
+#sciEl {
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 16px;
+  color: #FFC84B;
+}
+
+#data-el,
+#orderEl,
+#familyEl {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 18px;
+  color: #fff;
+}
+
+#category-data {
+  position: fixed;
+  margin: 20px 0 0 20px;
+}
+
+#data-el {
+  margin-top: 20px;
+}
+
+*/
+
+.d-flex {
+  display: flex;
+}
+
+.flex-cont {
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
